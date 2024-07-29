@@ -21,3 +21,17 @@ console.log(myCreateDate.toDateString());// Sat Mar 23 2024
 let myCreatedDate = new Date(2023, 0, 23, 5, 3)
 console.log(myCreatedDate.toLocaleString()); // 1/23/2023, 5:03:00 AM
 
+let myTimeStamp = Date.now() //time comes in miliseconds from  midnight at the beginning of January 1, 1970,
+console.log(myTimeStamp);//1722249452246
+console.log(myCreatedDate.getTime());// 1674450180000 ///note always compare date in miliseconds
+
+
+console.log(myCreatedDate.getDay());// 0-6 for sun-sat 
+
+
+
+
+
+
+
+
