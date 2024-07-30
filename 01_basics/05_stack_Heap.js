@@ -19,7 +19,7 @@ let userOne={
 
 let userTwo = userOne;
 
-userTwo.email="userTwo@gmail.com" //memory reference was given to userTwo when email changed, it was change in thje memory reference   
+userTwo.email="userTwo@gmail.com" //memory reference was given to userTwo when email changed, it was change in the memory reference   
 
 console.log(userOne.email)
 console.log(userTwo.email)
