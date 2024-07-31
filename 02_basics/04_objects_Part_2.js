@@ -86,4 +86,4 @@ console.log(Object.entries(tinderUser))
     [ 'isLoggedIn', false ],
     [ 'greeting', [Function (anonymous)] ]
   ]*/
-console.log(tinderUser.hasOwnProperty("greeting"))  //geeting itself is a String, as properties of object are of string dattype
+console.log(tinderUser.hasOwnProperty("greeting")) //true //geeting itself is a String, as properties of object are of string dataype
