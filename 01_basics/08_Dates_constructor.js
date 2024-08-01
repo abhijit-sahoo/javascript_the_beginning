@@ -1,4 +1,5 @@
-let myDate = new Date();
+//Date constructor
+let myDate = new Date();//Date constructor
 
 console.log(myDate);// 2024-07-29T09:44:25.051Z
 console.log(myDate.toString());// Mon Jul 29 2024 09:44:25 GMT+0000 (Coordinated Universal Time)
