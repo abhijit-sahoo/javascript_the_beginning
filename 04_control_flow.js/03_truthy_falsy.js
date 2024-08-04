@@ -48,21 +48,6 @@ iceTeaPrice <= 80 ? console.log("less than 80") : console.log("more than 80")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /**
 When non-boolean values are used in a boolean context, 
 such as the condition of an if statement, 
