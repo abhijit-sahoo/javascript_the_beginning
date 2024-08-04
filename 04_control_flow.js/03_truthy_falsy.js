@@ -39,7 +39,7 @@ val1 = null ?? 10 ?? 20 //Output: 10
 console.log(val1);
 
 
-// Terniary Operator
+// Ternary operator
 
 // condition ? true : false
 
