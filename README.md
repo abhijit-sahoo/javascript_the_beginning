@@ -1,2 +1,2 @@
-# refresh-javascript
-First repository while learning JavaScript
+# javascript_the_beginning
+the repo contains basics  of javascript 
