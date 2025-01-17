@@ -22,3 +22,12 @@ let isLoggedIn = false
 // object
 
 console.table([typeof("hitesh"),typeof(undefined),typeof(18),typeof(null)])
+/* 
+|(index)  │ Values      │
+├─────────┼─────────────┤
+│ 0       │ 'string'    │
+│ 1       │ 'undefined' │
+│ 2       │ 'number'    │
+│ 3       │ 'object'    │
+└─────────┴─────────────┘
+*/

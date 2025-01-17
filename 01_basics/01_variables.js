@@ -21,12 +21,3 @@ because of issue in block scope and functional scope
 
 console.log(accountId)
 console.table([accountId,accountEmail, accountPassword, accountCity, accoumtState]) ;
-/* 
-|(index)  │ Values      │
-├─────────┼─────────────┤
-│ 0       │ 'string'    │
-│ 1       │ 'undefined' │
-│ 2       │ 'number'    │
-│ 3       │ 'object'    │
-└─────────┴─────────────┘
-*/
