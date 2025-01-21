@@ -21,3 +21,17 @@ because of issue in block scope and functional scope
 
 console.log(accountId)
 console.table([accountId,accountEmail, accountPassword, accountCity, accoumtState]) ;
+
+{
+    var x= 23;
+}
+
+let y = x+23;
+console.log(y);
+
+{
+    let p = 23;
+    
+}
+let z = p + 20;
+console.log(z);
