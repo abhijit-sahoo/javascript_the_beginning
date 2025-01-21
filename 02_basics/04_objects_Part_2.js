@@ -68,7 +68,7 @@ const users=[ //array of objects
     }
 ]
 
-users[2].email="change@gmail.com" //accessing propeerties from array of objects
+users[2].email="change@gmail.com" //accessing properties from array of objects
 console.log(users)/**********[
     { id: 1, email: 'a@gmail.com' },
     { id: 2, email: 'b@gmail.com' },
